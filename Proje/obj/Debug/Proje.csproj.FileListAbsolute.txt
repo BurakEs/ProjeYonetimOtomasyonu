@@ -1,0 +1,78 @@
+C:\Users\Smog6\source\repos\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Smog6\source\repos\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Smog6\source\repos\Proje\Proje\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.Anamenü.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.BasarıFormu.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.GörevUControl.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.HataFormu.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.PersonelEkleGncle.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.PersonelUControl.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.ProjeEkle.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.ProjeUControl.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.ProjeyePersonelekle.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Smog6\source\repos\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Smog6\Desktop\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Smog6\Desktop\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.Anamenü.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.BasarıFormu.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.GörevUControl.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.HataFormu.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.PersonelEkleGncle.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.PersonelUControl.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.ProjeEkle.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.ProjeUControl.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.ProjeyePersonelekle.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Smog6\Desktop\Proje\Proje\obj\Debug\Proje.GrvDznle.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\ÖZER\Desktop\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\ÖZER\Desktop\Proje\Proje\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.Anamenü.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.BasarıFormu.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.GrvDznle.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.GörevUControl.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.HataFormu.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.PersonelEkleGncle.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.PersonelUControl.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.ProjeEkle.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.ProjeUControl.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.ProjeyePersonelekle.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\ÖZER\Desktop\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Smog6\Desktop\Proje\Proje\bin\Debug\stdole.dll
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\bin\Debug\stdole.dll
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.csprojAssemblyReference.cache
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.Anamenü.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.BasarıFormu.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.GrvDznle.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.GörevUControl.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.HataFormu.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.PersonelEkleGncle.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.PersonelUControl.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.ProjeEkle.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.ProjeUControl.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.ProjeyePersonelekle.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.csproj.CopyComplete
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Smog6\Desktop\KARIŞIK ÖNEMLİ\Proje\Proje\obj\Debug\Proje.pdb

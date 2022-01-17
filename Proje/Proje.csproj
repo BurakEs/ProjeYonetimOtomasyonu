@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41A085BD-9A16-4F09-BB5B-2157F9E7C28B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proje</RootNamespace>
+    <AssemblyName>Proje</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\ADL Tools\2.3.9000.1\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ZedGraph, Version=5.1.5.28844, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anamenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anamenu.Designer.cs">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasarıFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasarıFormu.Designer.cs">
+      <DependentUpon>BasarıFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Businies\DataTransferObject\GörevlerDTO.cs" />
+    <Compile Include="Businies\DataTransferObject\PersonelProjeDTO.cs" />
+    <Compile Include="Businies\DataTransferObject\ProjelerDTO.cs" />
+    <Compile Include="Businies\Görevler.cs" />
+    <Compile Include="Businies\Interface\IGörevler.cs" />
+    <Compile Include="Businies\Interface\IPersonel.cs" />
+    <Compile Include="Businies\Interface\IPersonelProje.cs" />
+    <Compile Include="Businies\Interface\IProjeler.cs" />
+    <Compile Include="Businies\Personel.cs" />
+    <Compile Include="Businies\PersonelProje.cs" />
+    <Compile Include="Businies\Projeler.cs" />
+    <Compile Include="Connections\Baglanti.cs" />
+    <Compile Include="Connections\Command.cs" />
+    <Compile Include="GrvDznle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrvDznle.Designer.cs">
+      <DependentUpon>GrvDznle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GörevUControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GörevUControl.Designer.cs">
+      <DependentUpon>GörevUControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HataFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HataFormu.Designer.cs">
+      <DependentUpon>HataFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelEkleGncle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelEkleGncle.Designer.cs">
+      <DependentUpon>PersonelEkleGncle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelUControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PersonelUControl.Designer.cs">
+      <DependentUpon>PersonelUControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProjeEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjeEkle.Designer.cs">
+      <DependentUpon>ProjeEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjeUControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProjeUControl.Designer.cs">
+      <DependentUpon>ProjeUControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjeyePersonelekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjeyePersonelekle.Designer.cs">
+      <DependentUpon>ProjeyePersonelekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Anamenu.resx">
+      <DependentUpon>Anamenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasarıFormu.resx">
+      <DependentUpon>BasarıFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrvDznle.resx">
+      <DependentUpon>GrvDznle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GörevUControl.resx">
+      <DependentUpon>GörevUControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HataFormu.resx">
+      <DependentUpon>HataFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelEkleGncle.resx">
+      <DependentUpon>PersonelEkleGncle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelUControl.resx">
+      <DependentUpon>PersonelUControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjeEkle.resx">
+      <DependentUpon>ProjeEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjeUControl.resx">
+      <DependentUpon>ProjeUControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjeyePersonelekle.resx">
+      <DependentUpon>ProjeyePersonelekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Businies\DataTransferObject\PersonelDTO.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
